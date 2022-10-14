@@ -1,8 +1,9 @@
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g"/>
+
 <h1 align="center">Hi 👋, I'm Prakash Rajesh singh</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhprakash14&label=Profile%20views&color=0e75b6&style=flat" alt="singhprakash14" /> </p>
+<img align="right" alt="coding" width="400px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently working on **Portfolio**
 
