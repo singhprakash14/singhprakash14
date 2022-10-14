@@ -1,4 +1,4 @@
-https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g
+<img src"https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g"/>
 <h1 align="center">Hi 👋, I'm Prakash Rajesh singh</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
