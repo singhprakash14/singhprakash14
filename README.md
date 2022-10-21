@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Rajesh singh</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Indiar</h3>
 
 
 
