@@ -64,7 +64,6 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=singhprakash14&theme=gruvbox&hide_border=true&area=true)
-<br/>
+
 <br/>
 
