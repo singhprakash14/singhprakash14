@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Node,Express**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Nodejs,Express,mongodb,vuejs**
 
 - 📫 How to reach me **prakashsingh12320@gmail.com**
 
