@@ -10,7 +10,6 @@
 <img align="right" alt="coding" width="310px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zjdsbmsgypzjbs6mzj2ypzuoqmbo4ntwbsnk6oaj&rid=giphy.gif&ct=g"/>
 
 
-- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **MEAN Stack**
 
