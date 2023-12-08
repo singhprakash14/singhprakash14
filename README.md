@@ -15,10 +15,12 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Nodejs,Express,mongodb,vuejs**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Nodejs,Express,MongoDB,C**
 
 - 📫 How to reach me **prakashsingh12320@gmail.com**
 
+- ### LeetCode Profile:
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode)](https://leetcode.com/prakashsingh20497/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
