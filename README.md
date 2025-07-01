@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Nodejs,Express,MongoDB,C,Postgresql,Nextjs,nestjs,Mysql**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Nodejs,Express,MongoDB,C,Postgresql,Nextjs,Nestjs,Mysql**
 
 - 📫 How to reach me **prakashsingh12320@gmail.com**
 
